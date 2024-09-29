@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1saVdncFMShdiLMXfCdrXtCKak_CntPKs/view?usp=drive_link](https://drive.google.com/file/d/1saVdncFMShdiLMXfCdrXtCKak_CntPKs/view?usp=drive_link)
 
-- ⚡ Fun fact **Front-End Development Tailored for Unique Visions**
+- ⚡ Fun fact **"I love finding creative ways to debug code—sometimes my best solutions come while I'm making coffee!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
