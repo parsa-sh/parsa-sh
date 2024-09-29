@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parsa Shahsavan</h1>
-<h3 align="center">"I am an indie front-end developer with a passion for crafting clean, user-friendly interfaces. I specialize in responsive web design, ensuring seamless experiences across devices. With a focus on simplicity and performance, I bring creative ideas to life through code." Feel free to tweak it based on your style!</h3>
+<h3 align="center">"I am an indie Fullstack developer with a passion for crafting clean, user-friendly interfaces. I specialize in responsive web design, ensuring seamless experiences across devices. With a focus on simplicity and performance, I bring creative ideas to life through code." Feel free to tweak it based on your style!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsa-sh&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-sh" /> </p>
 
