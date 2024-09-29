@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects with their source codes [Github.com/parsa-sh](Github.com/parsa-sh)
 
-- 💬 Ask me about **react , nextJs**
+- 💬 Ask me about **React , NextJs , NodeJS**
 
 - 📫 How to reach me **shahsavanparsa4@gmail.com**
 
