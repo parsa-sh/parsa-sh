@@ -1,31 +1,116 @@
-<h1 align="center">Hi 👋, I'm Parsa Shahsavan</h1>
-<h3 align="center">"I am an indie Fullstack developer with a passion for crafting clean, user-friendly interfaces. I specialize in responsive web design, ensuring seamless experiences across devices. With a focus on simplicity and performance, I bring creative ideas to life through code." Feel free to tweak it based on your style!</h3>
+<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Write Code That Writes the Future.&width" alt="SVG Banner" width="80%" height="400px"/>
+  </a>
+</p>
+<p align="center">
+  <a href="www.linkedin.com/in/alimohammadnia">
+   <img width="38" height="38" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="mailto:shahsavanparsa4@gmail.com">
+    <img width="38" height="38" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+  </a>
+ <a href="mailto:shahsavanparsa4@outlook.com" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
+  <img width="38" height="38" src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/>
+</a>
+</p>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&width=800&height=70&lines=Hi+%F0%9F%91%8B+%2C+My+name+is+Parsa;I'm+Full-stack+%2C+Embedded-systems+%2C+Cybersecurity+engineer)](https://git.io/typing-svg)
+
+# 📈 History :
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsa-sh&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-sh" /> </p>
 
-- 🔭 I’m currently working on my own project [PWA chat application](https://github.com/parsa-sh/Chat-app-with-react-and-firebase)
+![snake gif](https://github.com/parsa-sh/parsa-sh/blob/output/github-contribution-grid-snake2.svg)
 
-- 🌱 I’m currently learning **Data science , Machine learning , Computer security**
+---
 
-- 👨‍💻 All of my projects with their source codes [Github.com/parsa-sh](Github.com/parsa-sh)
+# 🧑‍💻 About Me :
 
-- 💬 Ask me about **React , NextJs , NodeJS**
+<h3>
 
-- 📫 How to reach me **shahsavanparsa4@gmail.com**
+💻 Full-stack and embedded systems developer skilled in **C/C++**, **C#**, **Python**, **Java**, **JavaScript**, and **Assembly** for **ARM** and **Linux**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1saVdncFMShdiLMXfCdrXtCKak_CntPKs/view?usp=drive_link](https://drive.google.com/file/d/1saVdncFMShdiLMXfCdrXtCKak_CntPKs/view?usp=drive_link)
+🛠️ I build backends with **.NET**, **Node.js**, **Django**, and **Flask**; frontends with **React**, **Next.js**, **Material UI**, **Tailwind CSS**, **Chakra UI**, and **Bootstrap**.
 
-- ⚡ Fun fact **"I love finding creative ways to debug code—sometimes my best solutions come while I'm making coffee!"**
+🎮 I develop games using **Unity**, **Unreal Engine**, and **Godot**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/parsa-shahsavan-581539254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/parsa-shahsavan-581539254" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_i.am.parsa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_i.am.parsa_/" height="30" width="40" /></a>
+⚙️ I design low-level hardware systems with **C** and **Assembly** for **ARM**.
+
+🧠 I apply machine learning with **Python** and perform data analysis using **Java** in real-world scenarios.
+
+🧭 Rebuilding myself—physically, mentally, and technically—through precision, discipline, and purposeful code.
+
+</h3>
+
+---
+
+# 💻 Tech Stack
+
+### Languages & Frameworks:
+
+<p align="center">
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/c-programming.png" alt="c-programming"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/assembly.png" alt="assembly"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/flask.png" alt="flask"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/net-framework.png" alt="net-framework"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
+  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/arm-logo.png" alt="arm-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/>
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Databases & Storages:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-sh&show_icons=true&locale=en&layout=compact" alt="parsa-sh" /></p>
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-sh&show_icons=true&locale=en" alt="parsa-sh" /></p>
+### Game Engines:
+
+<p align="center">
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/unity.png" alt="unity"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/unreal-engine.png" alt="unreal-engine"/>
+  <img width="50" height="50" src="https://img.icons8.com/nolan/50/godot.png" alt="godot"/>
+</p>
+
+### Tools:
+
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nginx.png" alt="nginx"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/docker.png" alt="docker"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
+</p>
+
+### Operating Systems:
+
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/debian.png" alt="debian"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/arch-linux.png" alt="arch-linux"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/fedora.png" alt="fedora"/>
+  <img width="50" height="50" src="https://img.icons8.com/stickers/50/server-windows.png" alt="server-windows"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/>
+</p>
+
+---
