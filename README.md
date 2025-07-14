@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Write Code That Writes the Future.&width" alt="SVG Banner" width="80%" height="400px"/>
-  </a>
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="banner"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 </p>
 <p align="center">
   <a href="www.linkedin.com/in/alimohammadnia">
