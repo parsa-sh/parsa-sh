@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" alt="banner"/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-</p>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Write%20Code%20That%20Writes%20the%20Future.&width=1000&height=250)](https://github.com/Akshay090/svg-banners)
 <p align="center">
   <a href="www.linkedin.com/in/alimohammadnia">
    <img width="38" height="38" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
@@ -22,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsa-sh&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-sh" /> </p>
 
-![snake gif](https://github.com/parsa-sh/parsa-sh/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/psymoniko/PsymoNiko/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
