@@ -104,3 +104,25 @@ Currently focused on building scalable web applications and improving frontend a
 </p>
 
 ---
+## 🚀 Featured Projects
+
+### 🎬 Movie Discovery Application
+A responsive movie discovery platform built with React and TypeScript, integrating TMDB APIs for movie search, discovery, and detailed information.
+
+**Technologies:** React, TypeScript, Vite, Axios, Tailwind CSS
+
+[Source Code](YOUR_REPOSITORY_URL) | [Live Demo](YOUR_DEPLOYMENT_URL)
+
+### 📊 React Dashboard
+A modern dashboard application featuring reusable UI components, responsive layouts, and data visualization.
+
+**Technologies:** React, JavaScript, Material UI
+
+[Source Code](YOUR_REPOSITORY_URL)
+
+### ⚙️ Full-Stack Application
+A full-stack application demonstrating frontend and backend integration, authentication, API development, and database management.
+
+**Technologies:** React, ASP.NET Core, PostgreSQL
+
+[Source Code](YOUR_REPOSITORY_URL)
