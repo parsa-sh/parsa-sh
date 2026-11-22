@@ -14,7 +14,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&width=800&height=70&lines=Hi+%F0%9F%91%8B+%2C+My+name+is+Parsa;I'm+Full-stack+%2C+Embedded-systems+%2C+Cybersecurity+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&width=800&height=70&lines=Hi+%F0%9F%91%8B+%2C+My+name+is+Parsa;I'm+Frontend-Developer++and++Full-Stack-Engineer)](https://git.io/typing-svg)
 
 # 🧑‍💻 About Me :
 
