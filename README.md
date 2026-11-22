@@ -25,11 +25,11 @@ My primary focus is developing modern, responsive, and maintainable applications
 
 I also have backend engineering experience with **ASP.NET Core, Node.js, Express.js, and Python**, allowing me to work across the entire application stack.
 
-- Frontend: React, TypeScript, Next.js, Tailwind CSS, Material UI
-- State & Data: TanStack Query, Zustand, REST APIs
-- Backend: ASP.NET Core, Node.js, Express.js, FastAPI
-- Databases: PostgreSQL, MongoDB
-- Infrastructure: Docker, Nginx, Linux, CI/CD
+-  Frontend: React, TypeScript, Next.js, Tailwind CSS, Material UI
+-  State & Data: TanStack Query, Zustand, REST APIs
+-  Backend: ASP.NET Core, Node.js, Express.js, FastAPI
+-  Databases: PostgreSQL, MongoDB
+-  Infrastructure: Docker, Nginx, Linux, CI/CD
 
 Currently focused on building scalable web applications and improving frontend architecture, performance, and developer experience.
 
@@ -37,14 +37,9 @@ Currently focused on building scalable web applications and improving frontend a
 
 ---
 
-### Languages & Frameworks & Libraries:
+### Frontend:
 
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png" alt="nodejs"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/50/net-framework.png" alt="net-framework"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/>
  <img width="48" height="48" src="https://img.icons8.com/color/50/nextjs.png" alt="nextjs"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
@@ -62,18 +57,34 @@ Currently focused on building scalable web applications and improving frontend a
 </linearGradient>
 </defs>
 </svg>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="arm-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/graphql.png" alt="graphql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
+  
 </p>
 
-### Databases & Storages:
+### Languages
+
+<p align="center">
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>
+</p>
+
+### Backend
+
+<p align="center">
+<img width="48" height="48" src="https://img.icons8.com/fluency/50/net-framework.png" alt="net-framework"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png" alt="expressjs"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/graphql.png" alt="graphql"/>
+</p>
+
+### Databases
 
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
   </p>
 
-### Tools:
+### DevOps and infrastructure
 
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/nginx.png" alt="nginx"/>
@@ -82,7 +93,7 @@ Currently focused on building scalable web applications and improving frontend a
   <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
 </p>
 
-### Operating Systems:
+### Operating systems
 
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
