@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Write%20Code%20That%20Writes%20the%20Future.&width=1000&height=250)](https://github.com/Akshay090/svg-banners)
 
 <p align="center">
-  <a href="www.linkedin.com/in/alimohammadnia">
+  <a href="linkedin.com/in/parsa-shahsavan-581539254">
    <img width="38" height="38" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
   </a>
   <a href="mailto:shahsavanparsa4@gmail.com">
