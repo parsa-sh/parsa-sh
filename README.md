@@ -104,25 +104,29 @@ Currently focused on building scalable web applications and improving frontend a
 </p>
 
 ---
+
 ## 🚀 Featured Projects
 
 ### 🎬 Movie Discovery Application
-A responsive movie discovery platform built with React and TypeScript, integrating TMDB APIs for movie search, discovery, and detailed information.
 
-**Technologies:** React, TypeScript, Vite, Axios, Tailwind CSS
+A responsive movie discovery platform built with React and Tailwind CSS, integrating TMDB APIs for movie search, discovery, and detailed information.
 
-[Source Code](YOUR_REPOSITORY_URL) | [Live Demo](YOUR_DEPLOYMENT_URL)
+**Technologies:** React, Vite, Axios, Tailwind CSS
+
+[Source Code](https://github.com/parsa-sh/CineScope)
 
 ### 📊 React Dashboard
+
 A modern dashboard application featuring reusable UI components, responsive layouts, and data visualization.
 
-**Technologies:** React, JavaScript, Material UI
+**Technologies:** React, Typescript
 
-[Source Code](YOUR_REPOSITORY_URL)
+[Source Code](https://github.com/parsa-sh/reactJs-Dashboard-ui)
 
-### ⚙️ Full-Stack Application
-A full-stack application demonstrating frontend and backend integration, authentication, API development, and database management.
+### ⚙️ Full-Stack Server State Task Manager
 
-**Technologies:** React, ASP.NET Core, PostgreSQL
+A modern frontend task dashboard built to demonstrate server-state management using React, Axios, Zustand, and TanStack React Query.
 
-[Source Code](YOUR_REPOSITORY_URL)
+**Technologies:** React, TypeScript, Axios, TanStack React Query, Zustand, JSONPlaceholder API
+
+[Source Code](https://github.com/parsa-sh/server-state-task-manager)
