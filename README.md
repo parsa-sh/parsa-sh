@@ -19,21 +19,27 @@
 # 🧑‍💻 About Me :
 
 <h3>
+I'm a Software Developer specializing in **Frontend Engineering**, with professional experience building web applications and full-stack systems.
 
-💻 Frontend Developer | React | TypeScript | Next.js | Full-Stack Engineering
+My primary focus is developing modern, responsive, and maintainable applications using **React, TypeScript, Next.js, and modern JavaScript**.
 
-🛠️ I build backends with **ASP.NET Core Web API**, **Express.js**, and **FastAPI**; frontends with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Material UI**, and **TanStack Query**.
+I also have backend engineering experience with **ASP.NET Core, Node.js, Express.js, and Python**, allowing me to work across the entire application stack.
+
+- Frontend: React, TypeScript, Next.js, Tailwind CSS, Material UI
+- State & Data: TanStack Query, Zustand, REST APIs
+- Backend: ASP.NET Core, Node.js, Express.js, FastAPI
+- Databases: PostgreSQL, MongoDB
+- Infrastructure: Docker, Nginx, Linux, CI/CD
+
+Currently focused on building scalable web applications and improving frontend architecture, performance, and developer experience.
 
 </h3>
 
 ---
 
-# 💻 Tech Stack
-
 ### Languages & Frameworks & Libraries:
 
 <p align="center">
-  
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
