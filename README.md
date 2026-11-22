@@ -22,7 +22,7 @@
 
 💻 Frontend Developer | React | TypeScript | Next.js | Full-Stack Engineering
 
-🛠️ I build backends with **ASP .NET Web API**, **Express.js**, and **FastApi**; frontends with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **MaterialUI**, and **Tanstack(React-Query)**.
+🛠️ I build backends with **ASP.NET Core Web API**, **Express.js**, and **FastAPI**; frontends with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Material UI**, and **TanStack Query**.
 
 </h3>
 
